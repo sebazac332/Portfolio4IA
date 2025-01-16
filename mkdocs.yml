@@ -1,0 +1,21 @@
+site_name: Portfólio 4 de Inteligência Artificial
+
+theme:
+   name: material 
+   palette:
+    - scheme: default
+      toggle: 
+         icon: material/toggle-switch-off-outline
+         name: Dark mode
+      primary: blue
+    - scheme: slate
+      toggle:
+         icon: material/toggle-switch
+         name: Light mode
+
+nav:
+  - Agente baseado em conhecimento: index.md
+  - Lógica: index.md
+  - Processo de inferência: index.md
+  - Agente baseado em lógica proposicional: index.md
+  
