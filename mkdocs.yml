@@ -16,6 +16,7 @@ theme:
 nav:
   - Agente baseado em conhecimento: index.md
   - Lógica: logic.md
-  - Processo de inferência: index.md
-  - Agente baseado em lógica proposicional: index.md
+  - Processo de inferência: inference_process.md
+  - Agente baseado em lógica proposicional: propositional_agent.md
+  - Referencias: references.md
   
